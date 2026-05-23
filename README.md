@@ -45,7 +45,7 @@ Beyond code, I share my journey and knowledge through content creation — you'l
 ## 🌐 Connect With Me
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvi-nath-947541224/)
+<a href="https://www.linkedin.com/in/pruthvi-nath-947541224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
