@@ -82,9 +82,6 @@ I'm always open to exciting collaborations, freelance projects, or just a good t
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pruthvi_Nath-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pruthvi-nath-947541224/)
-[![YouTube](https://img.shields.io/badge/YouTube-LostWanderer63-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@LostWanderer63)
-[![Medium](https://img.shields.io/badge/Medium-LostWanderer63-12100E?style=flat-square&logo=medium)](https://medium.com/@LostWanderer63)
-[![Instagram](https://img.shields.io/badge/Instagram-LostWanderer63-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/LostWanderer63)
 
 </div>
 
