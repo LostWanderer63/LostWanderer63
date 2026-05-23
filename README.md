@@ -55,11 +55,11 @@ Beyond code, I share my journey and knowledge through content creation — you'l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LostWanderer63&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LostWanderer63&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
 
 <img src="https://streak-stats.demolab.com/?user=LostWanderer63&theme=tokyonight" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostWanderer63&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostWanderer63&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
